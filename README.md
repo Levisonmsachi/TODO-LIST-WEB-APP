@@ -4,7 +4,7 @@ A simple program that let the user add tasks, delete and search for tasks. I cre
 # 📝 Daily Todo-List App  
 *A sleek, interactive todo-list with search functionality built with HTML, Tailwind CSS, and JavaScript!*  
 
-![Todo App Preview](https://via.placeholder.com/800x500/1e40af/ffffff?text=Todo+App+Preview)   
+![Todo App Preview](https://github.com/Levisonmsachi/TODO-LIST-WEB-APP/blob/main/Screenshot%20(128).png)   
 
 ---
 
